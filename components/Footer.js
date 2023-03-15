@@ -15,7 +15,7 @@ import PinterestIcon from "@mui/icons-material/Pinterest";
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { styled } from '@mui/system';
-// import { FooterSection1 } from "@/pages/api/home-content";
+import { FooterSection1 } from "@/pages/api/home-content";
 import { mobile } from "./Responsive";
 import SocialShareBtn from "./GlobalComponents";
 
@@ -112,7 +112,7 @@ const Footer = () => {
               </Typography>
               <Center>
                 <Typography width="200px" variant="body2">
-                  {/* {FooterSection1} */}
+                  {FooterSection1}
                 </Typography>
               </Center>
             </Grid>

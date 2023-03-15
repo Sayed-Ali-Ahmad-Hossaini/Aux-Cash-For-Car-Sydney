@@ -177,9 +177,9 @@ export const ResyclerContnet2 = (
   </>
 )
 
-// // Footer
-// export const FooterSection1 = (
-//   <>
-//     {`AUX Cash for Car buys all kinds of cars for cash and pay best price as compare to other wreckers and dealers. We also buy scrap metal all around Sydney.`}
-//   </>
-// );
+// Footer
+export const FooterSection1 = (
+  <>
+    {`AUX Cash for Car buys all kinds of cars for cash and pay best price as compare to other wreckers and dealers. We also buy scrap metal all around Sydney.`}
+  </>
+);

@@ -8,7 +8,7 @@ import CompanyValues from '@/components/CompanyValues'
 import OurServices from '@/components/OurServices'
 import Export from '@/components/Export'
 import Resycler from '@/components/Resycler'
-// import ContactUs from '@/components/ContactUs'
+import ContactUs from '@/components/ContactUs'
 
 
 export default function Home() {
@@ -35,7 +35,7 @@ export default function Home() {
           <OurServices />
           <Export />
           <Resycler />
-          {/* <ContactUs/> */}
+          <ContactUs/>
         </Box>
       </main>
       
