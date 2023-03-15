@@ -125,25 +125,25 @@ export const OurMission = (
   </>
 );
 
-// /* Our Services */
+/* Our Services */
 
-// export const CashForCarsSydney = (
-//   <>
-//     {`We offer collection and transport of various recycling products including old and scrap vehicles, scrap material of civil, construction, and demolition. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
-//   </>
-// )
+export const CashForCarsSydney = (
+  <>
+    {`We offer collection and transport of various recycling products including old and scrap vehicles, scrap material of civil, construction, and demolition. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
+  </>
+)
 
-// export const CashforScrapMetalSydney = (
-//   <>
-//     {`Millions of tons of scrap metal is sitting unused in garages and basements across the country, when it could be earning you some extra cash. As part of our various recycling products services, collecting and recycling of metal is also considered. We offer all kinds of metals, metals related to the old, scrap or unwanted appliances of home, construction, demolition, civil and other related metals such as refrigerators, washing mashies, TVs and other related items.`}
-//   </>
-// )
+export const CashforScrapMetalSydney = (
+  <>
+    {`Millions of tons of scrap metal is sitting unused in garages and basements across the country, when it could be earning you some extra cash. As part of our various recycling products services, collecting and recycling of metal is also considered. We offer all kinds of metals, metals related to the old, scrap or unwanted appliances of home, construction, demolition, civil and other related metals such as refrigerators, washing mashies, TVs and other related items.`}
+  </>
+)
 
-// export const CashForBinsSydney = (
-//   <>
-//     {`With (AUX Cash for Car Sydney) you can even change your waste to cash. We have provided free pickup and replacement of the bins within 48 hours. Considered payment will be pay once the bin received in the area where they get weighed, inspected and graded. We have a lot of bins in different size that meet the needs of our clients.`}
-//   </>
-// )
+export const CashForBinsSydney = (
+  <>
+    {`With (AUX Cash for Car Sydney) you can even change your waste to cash. We have provided free pickup and replacement of the bins within 48 hours. Considered payment will be pay once the bin received in the area where they get weighed, inspected and graded. We have a lot of bins in different size that meet the needs of our clients.`}
+  </>
+)
 
 // /* Exports */
 // export const ContentExport0 = (

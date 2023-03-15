@@ -5,7 +5,7 @@ import images from './api/images'
 import HowWeWorks from '@/components/HowWeWorks'
 import AboutCompany from '@/components/AboutCompany'
 import CompanyValues from '@/components/CompanyValues'
-// import OurServices from '@/components/OurServices'
+import OurServices from '@/components/OurServices'
 // import Export from '@/components/Export'
 // import Resycler from '@/components/Resycler'
 // import ContactUs from '@/components/ContactUs'
@@ -32,8 +32,8 @@ export default function Home() {
           <HowWeWorks />
           <AboutCompany />
           <CompanyValues />
-          {/* <OurServices />
-          <Export />
+          <OurServices />
+          {/* <Export />
           <Resycler />
           <ContactUs/> */}
         </Box>
