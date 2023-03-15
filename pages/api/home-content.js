@@ -164,18 +164,18 @@ export const ContentExport2 = (
   </>
 )
 
-// export const ResyclerContnet1 = (
-//   <>
-//     {`(AUX Cash for Car Sydney) is one of the biggest and most active car removals in Sydney, Queensland that gives you the good, save, and satisfying service and offers you the highest prices and cash for your unwanted cars that can go up to $9999.
-// We collect and recycle all types of scrap metals and car including scrap cars, buses, tracks, 4x4s, So, if you have a car or any other kind of metal, (AUX Cash for Car Sydney) will come and collect your unwanted vehicle for free_ and will offer you cash for your unwanted vehicle`}
-//   </>
-// )
+export const ResyclerContnet1 = (
+  <>
+    {`(AUX Cash for Car Sydney) is one of the biggest and most active car removals in Sydney, Queensland that gives you the good, save, and satisfying service and offers you the highest prices and cash for your unwanted cars that can go up to $9999.
+We collect and recycle all types of scrap metals and car including scrap cars, buses, tracks, 4x4s, So, if you have a car or any other kind of metal, (AUX Cash for Car Sydney) will come and collect your unwanted vehicle for free_ and will offer you cash for your unwanted vehicle`}
+  </>
+)
 
-// export const ResyclerContnet2 = (
-//   <>
-//     {`We offer collection and transport of various recycling products including old and scrap vehicles, scrap material of civil, construction, and demolition. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
-//   </>
-// )
+export const ResyclerContnet2 = (
+  <>
+    {`We offer collection and transport of various recycling products including old and scrap vehicles, scrap material of civil, construction, and demolition. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
+  </>
+)
 
 // // Footer
 // export const FooterSection1 = (
