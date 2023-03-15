@@ -2,6 +2,7 @@ import { createTheme, ThemeProvider, Box } from '@mui/material'
 import Head from 'next/head'
 import ImageSlider from '@/components/ImageSlider'
 import images from './api/images'
+import HowWeWorks from '@/components/HowWeWorks'
 
 
 export default function Home() {
@@ -22,7 +23,13 @@ export default function Home() {
       <main >
         <Box width={'100%'} overflow ={'Hidden'}>
           <ImageSlider images={images}/>
-          
+          <HowWeWorks />
+          {/* <AboutCompany />
+          <CompanyValues />
+          <OurServices />
+          <Export />
+          <Resycler />
+          <ContactUs/> */}
         </Box>
       </main>
       
