@@ -2,7 +2,7 @@ import { Grid, Typography, Stack } from "@mui/material";
 import FacebookRoundedIcon from "@mui/icons-material/FacebookRounded";
 import PinterestIcon from "@mui/icons-material/Pinterest";
 import TwitterIcon from "@mui/icons-material/Twitter";
-import WhatsappIcon from "@mui/icons-material/Whatsapp";
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import { styled } from "@mui/system";
 import { mobile, iPad } from "./Responsive";
 import { useRouter } from "next/router";
@@ -67,7 +67,7 @@ const SocialShareBtn = () => {
             hashtag={"#cashForCar"}
           >
             <Icon>
-              <WhatsappIcon />
+              <WhatsAppIcon />
             </Icon>
           </WhatsappShareButton>
         </Stack>

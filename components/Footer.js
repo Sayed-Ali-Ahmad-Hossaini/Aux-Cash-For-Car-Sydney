@@ -12,9 +12,7 @@ import {
 import FacebookRoundedIcon from "@mui/icons-material/FacebookRounded";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import PinterestIcon from "@mui/icons-material/Pinterest";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import YoutubeIcon from "@mui/icons-material/Youtube";
-import WhatsappIcon from "@mui/icons-material/Whatsapp";
+import YouTubeIcon from '@mui/icons-material/YouTube';
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { styled } from '@mui/system';
 // import { FooterSection1 } from "@/pages/api/home-content";
@@ -191,7 +189,7 @@ const Footer = () => {
                     <PinterestIcon />
                   </Icon>
                   <Icon>
-                    <YoutubeIcon />
+                    <YouTubeIcon />
                   </Icon>
                 </Stack>
               </Center>
