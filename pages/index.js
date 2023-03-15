@@ -6,7 +6,7 @@ import HowWeWorks from '@/components/HowWeWorks'
 import AboutCompany from '@/components/AboutCompany'
 import CompanyValues from '@/components/CompanyValues'
 import OurServices from '@/components/OurServices'
-// import Export from '@/components/Export'
+import Export from '@/components/Export'
 // import Resycler from '@/components/Resycler'
 // import ContactUs from '@/components/ContactUs'
 
@@ -33,8 +33,8 @@ export default function Home() {
           <AboutCompany />
           <CompanyValues />
           <OurServices />
-          {/* <Export />
-          <Resycler />
+          <Export />
+          {/* <Resycler />
           <ContactUs/> */}
         </Box>
       </main>

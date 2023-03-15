@@ -145,24 +145,24 @@ export const CashForBinsSydney = (
   </>
 )
 
-// /* Exports */
-// export const ContentExport0 = (
-//   <>
-//     {`We export high-quality metals both ferrous and non-ferrous to the UAE. We have tried to prepare a range of container loaders and material handlers that meet the demands and needs of our buyers.`}
-//   </>
-// )
+/* Exports */
+export const ContentExport0 = (
+  <>
+    {`We export high-quality metals both ferrous and non-ferrous to the UAE. We have tried to prepare a range of container loaders and material handlers that meet the demands and needs of our buyers.`}
+  </>
+)
 
-// export const ContentExport1 = (
-//   <>
-//     {`We have a good partnership and cooperation with each other in order to save environment and improve and support the econometry of both countries.`}
-//   </>
-// )
+export const ContentExport1 = (
+  <>
+    {`We have a good partnership and cooperation with each other in order to save environment and improve and support the econometry of both countries.`}
+  </>
+)
 
-// export const ContentExport2 = (
-//   <>
-//     {`Due to the large amount of demand for the steel inside our own country, we also supply a considerable quality of Fragmented steel to the local or internal markets. We provide and prepare substantial amount of Frag steel across Australian Steel Mills.`}
-//   </>
-// )
+export const ContentExport2 = (
+  <>
+    {`Due to the large amount of demand for the steel inside our own country, we also supply a considerable quality of Fragmented steel to the local or internal markets. We provide and prepare substantial amount of Frag steel across Australian Steel Mills.`}
+  </>
+)
 
 // export const ResyclerContnet1 = (
 //   <>
