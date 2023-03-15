@@ -3,6 +3,12 @@ import Head from 'next/head'
 import ImageSlider from '@/components/ImageSlider'
 import images from './api/images'
 import HowWeWorks from '@/components/HowWeWorks'
+import AboutCompany from '@/components/AboutCompany'
+// import CompanyValues from '@/components/CompanyValues'
+// import OurServices from '@/components/OurServices'
+// import Export from '@/components/Export'
+// import Resycler from '@/components/Resycler'
+// import ContactUs from '@/components/ContactUs'
 
 
 export default function Home() {
@@ -24,8 +30,8 @@ export default function Home() {
         <Box width={'100%'} overflow ={'Hidden'}>
           <ImageSlider images={images}/>
           <HowWeWorks />
-          {/* <AboutCompany />
-          <CompanyValues />
+          <AboutCompany />
+          {/* <CompanyValues />
           <OurServices />
           <Export />
           <Resycler />

@@ -26,56 +26,56 @@ export const steps = [
   },
 ];
 
-// /**About Us */
-// export const AboutUsContent0 = (
-//   <>
-//       AUX Cash for Car Sydney has been pioneering the metal resource
-//       recycling industry in Sydney region, Australia since 2010 that
-//       mostly has been active in car removal industry.
-//   </>
-// );
-// export const AboutUsContent1 = (
-//   <>
-//       We specialize inrecycling and reprocessing 
-//       of cars that generally include old,
-//       scrap or unwanted cars, general scrap metal, white goods,
-//       demolition waste, with use of the advanced equipment and new,
-//       inventive and innovative methods that benefits the environment
-//       and eventually provide opportunities and contributes to the
-//       Australian economy, and make a connection between Australian
-//       interstate consumer as well as international customer and
-//       markets.
-//   </>
-// );
-// export const AboutUsContent2 = (
-//   <>
-//       At AUX Cash for Car Sydney we try to start by
-//       understanding our client&apos;s needs. Once we informed then we
-//       work out the best time and payment we can offer. Our goal at AUX
-//       Cash for Car Sydney is to offer our clients stress-free, good
-//       and friendly car removal service in Sydney and the surrounding.
-//       AUX Cash for Car Sydney give
-//       you up to $9999 for your old, junk, damaged or unwanted car on
-//       the same receiving moment, anywhere in the Sydney.
-//   </>
-// );
-// export const AboutUsContent3 = (
-//   <>
-//       If you are
-//       planning to sell your unwanted car for some cash in Sydney, you
-//       have come in the right place, because <b>AUX Cash for Car Sydney
-//       offers you up to $9999 for your old car</b>.
-//   </>
-// );
-// export const AboutUsContent4 = (
-//   <>
-//       We are one of the
-//       biggest, busiest and the most active car removal firms in Sydney
-//       that always pay you the highest amount of cash for your old car
-//       regardless of the age, condition, make and model of the car, and
-//       always does it at the same receiving moment of the car.
-//   </>
-// );
+/**About Us */
+export const AboutUsContent0 = (
+  <>
+      AUX Cash for Car Sydney has been pioneering the metal resource
+      recycling industry in Sydney region, Australia since 2010 that
+      mostly has been active in car removal industry.
+  </>
+);
+export const AboutUsContent1 = (
+  <>
+      We specialize inrecycling and reprocessing 
+      of cars that generally include old,
+      scrap or unwanted cars, general scrap metal, white goods,
+      demolition waste, with use of the advanced equipment and new,
+      inventive and innovative methods that benefits the environment
+      and eventually provide opportunities and contributes to the
+      Australian economy, and make a connection between Australian
+      interstate consumer as well as international customer and
+      markets.
+  </>
+);
+export const AboutUsContent2 = (
+  <>
+      At AUX Cash for Car Sydney we try to start by
+      understanding our client&apos;s needs. Once we informed then we
+      work out the best time and payment we can offer. Our goal at AUX
+      Cash for Car Sydney is to offer our clients stress-free, good
+      and friendly car removal service in Sydney and the surrounding.
+      AUX Cash for Car Sydney give
+      you up to $9999 for your old, junk, damaged or unwanted car on
+      the same receiving moment, anywhere in the Sydney.
+  </>
+);
+export const AboutUsContent3 = (
+  <>
+      If you are
+      planning to sell your unwanted car for some cash in Sydney, you
+      have come in the right place, because <b>AUX Cash for Car Sydney
+      offers you up to $9999 for your old car</b>.
+  </>
+);
+export const AboutUsContent4 = (
+  <>
+      We are one of the
+      biggest, busiest and the most active car removal firms in Sydney
+      that always pay you the highest amount of cash for your old car
+      regardless of the age, condition, make and model of the car, and
+      always does it at the same receiving moment of the car.
+  </>
+);
 
 // /** Our Values */
 // export const content = (
