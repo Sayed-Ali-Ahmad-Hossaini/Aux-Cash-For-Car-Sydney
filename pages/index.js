@@ -4,7 +4,7 @@ import ImageSlider from '@/components/ImageSlider'
 import images from './api/images'
 import HowWeWorks from '@/components/HowWeWorks'
 import AboutCompany from '@/components/AboutCompany'
-// import CompanyValues from '@/components/CompanyValues'
+import CompanyValues from '@/components/CompanyValues'
 // import OurServices from '@/components/OurServices'
 // import Export from '@/components/Export'
 // import Resycler from '@/components/Resycler'
@@ -31,8 +31,8 @@ export default function Home() {
           <ImageSlider images={images}/>
           <HowWeWorks />
           <AboutCompany />
-          {/* <CompanyValues />
-          <OurServices />
+          <CompanyValues />
+          {/* <OurServices />
           <Export />
           <Resycler />
           <ContactUs/> */}

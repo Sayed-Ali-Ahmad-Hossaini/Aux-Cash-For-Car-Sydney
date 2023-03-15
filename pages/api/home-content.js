@@ -77,53 +77,53 @@ export const AboutUsContent4 = (
   </>
 );
 
-// /** Our Values */
-// export const content = (
-//   <>
-//     {`We consider and stand for the five main values that we have chosen for our services that will guide the way we work on the projects: -`}
-//   </>
-// )
+/** Our Values */
+export const content = (
+  <>
+    {`We consider and stand for the five main values that we have chosen for our services that will guide the way we work on the projects: -`}
+  </>
+)
 
-// export const SatisfactionAndComplianceContent = (
-//   <>
-//     {`We try our best to get the Satisfaction of our customers, clients and our employees, so we consider it as one of our values that we follow.`}
-//   </>
-// );
+export const SatisfactionAndComplianceContent = (
+  <>
+    {`We try our best to get the Satisfaction of our customers, clients and our employees, so we consider it as one of our values that we follow.`}
+  </>
+);
 
-// export const OurCompatriot = (
-//   <>
-//     {`We value our employees, customers, clients, and suppliers. We are consigned to support and contribute to the community.`}
-//   </>
-// );
+export const OurCompatriot = (
+  <>
+    {`We value our employees, customers, clients, and suppliers. We are consigned to support and contribute to the community.`}
+  </>
+);
 
-// export const Perfection = (
-//   <>
-//     {`We strive for industry leadership, best practices and operational perfection.`}
-//   </>
-// );
+export const Perfection = (
+  <>
+    {`We strive for industry leadership, best practices and operational perfection.`}
+  </>
+);
 
-// export const Innovation = (
-//   <>
-//     {`We are continuously working and investing in technologies in order to bring development and benefit our stakeholders and society.`}
-//   </>
-// );
-// export const Sustainability = (
-//   <>
-//     {`We are consigned to provide and prepare the most sustainable recycling solutions to achieve the best possible outcome for the future.`}
-//   </>
-// );
+export const Innovation = (
+  <>
+    {`We are continuously working and investing in technologies in order to bring development and benefit our stakeholders and society.`}
+  </>
+);
+export const Sustainability = (
+  <>
+    {`We are consigned to provide and prepare the most sustainable recycling solutions to achieve the best possible outcome for the future.`}
+  </>
+);
 
-// export const OurVision = (
-//   <>
-//     {`To minimize the waste and making the good ways for recycling and reusing of them and supporting the community economy through that.`}
-//   </>
-// );
+export const OurVision = (
+  <>
+    {`To minimize the waste and making the good ways for recycling and reusing of them and supporting the community economy through that.`}
+  </>
+);
 
-// export const OurMission = (
-//   <>
-//     {`To provide the recycling services in an environmentally friendly way.`}
-//   </>
-// );
+export const OurMission = (
+  <>
+    {`To provide the recycling services in an environmentally friendly way.`}
+  </>
+);
 
 // /* Our Services */
 
